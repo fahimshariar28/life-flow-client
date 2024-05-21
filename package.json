@@ -1,6 +1,8 @@
 {
-  "name": "life-flow-client",
+  "name": "life-flow",
   "version": "0.1.0",
+  "description": "Connecting Blood Donors and Recipients",
+  "author": "Fahim Shariar <fahimshariar28@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "next dev",
